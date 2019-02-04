@@ -4,3 +4,6 @@ def fizzbuzz(Integer)
   if Integer % 3 == 0
 end
 end
+fizzbuzz(3)
+fizzbuzz(5)
+fizzbuzz()
