@@ -3,6 +3,6 @@
 def fizzbuzz
   if Int % 3 == 0
     "Fizz"
+  end
 end
-end
-fizzbuzz(3)
+
