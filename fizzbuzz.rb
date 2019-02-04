@@ -6,5 +6,3 @@ def fizzbuzz(Integer)
 end
 end
 fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz()
