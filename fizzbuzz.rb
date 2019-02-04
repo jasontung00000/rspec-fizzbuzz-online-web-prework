@@ -5,4 +5,4 @@ def fizzbuzz
     "Fizz"
   end
 end
-fizzbuzz(3)
+
