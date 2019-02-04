@@ -6,4 +6,4 @@ def fizzbuzz
   end
 end
 
-fizz_
+fizz_3
